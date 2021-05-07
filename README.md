@@ -3,7 +3,7 @@
 
 ![image_dsa](https://github.com/raquelcolares/PowerBI_DSA-/blob/main/image%20dsa.jpeg)
 
-This repository shows my projects during the Power BI course from Data Science Academy.
+This repository shows my projects during the Power BI course by Data Science Academy.
 The course presents not only how to use Microsoft Power BI, but to apply Data Science techniques to generate predictive models and extract insights for decision making.
 
 * Chapter 1- Introduction
