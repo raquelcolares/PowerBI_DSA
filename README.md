@@ -26,3 +26,6 @@ The course presents not only how to use Microsoft Power BI, but to apply Data Sc
 * Chapter 18- Power Virtual Agents
 * Chapter 19- Power Apps
 * Chapter 20- Data Lake, Dremio and Power BI for sales analysis
+
+
+**Data Science Academy** - https://www.datascienceacademy.com.br/
